@@ -1,0 +1,9 @@
+{
+  "name": "",
+  "dependencies": {
+    "@eslint-sukka/node": "5.1.2",
+    "@eslint-sukka/ts": "5.1.2",
+    "eslint": "9.1.1",
+    "eslint-config-sukka": "5.1.2"
+  }
+}
